@@ -1,2 +1,2 @@
-# iot_smart_door
+# Smart Door
 Particle Photon based an IOT application
